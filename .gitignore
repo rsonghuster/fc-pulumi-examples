@@ -1,0 +1,4 @@
+node_modules
+Pulumi*.yaml
+code/code.zip
+.s
