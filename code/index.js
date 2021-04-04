@@ -8,6 +8,6 @@ if you open the initializer feature, please implement the initializer function, 
 
 
 module.exports.handler = function (event, context, callback) {
-  console.log('hello world2');
-  callback(null, 'hello world2');
+  console.log('hello world');
+  callback(null, 'hello world');
 };
